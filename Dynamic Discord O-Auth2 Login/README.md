@@ -1,0 +1,1 @@
+A login O-Auth method for discord and websites using PHP
